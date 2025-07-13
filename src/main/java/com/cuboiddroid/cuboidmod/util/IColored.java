@@ -4,6 +4,7 @@ package com.cuboiddroid.cuboidmod.util;
   Shamelessly "lifted" from BlakeBr0's Cucumber library mod.
  */
 
+import com.cuboiddroid.cuboidmod.CuboidMod;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.state.BlockState;
 import net.minecraft.client.color.block.BlockColor;
@@ -31,6 +32,7 @@ public interface IColored {
     class ItemColors implements ItemColor {
         @Override
         public int getColor(ItemStack stack, int index) {
+            CuboidMod.LOGGER.info("Loading item color: {}", stack.getItem());
             return ((IColored) stack.getItem()).getColor(index, stack);
         }
     }
