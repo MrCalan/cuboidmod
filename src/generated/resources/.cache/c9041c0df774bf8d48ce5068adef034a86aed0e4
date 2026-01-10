@@ -1,4 +1,4 @@
-// 1.20.1	2024-08-18T00:52:02.0640358	Tags for minecraft:item mod id cuboidmod
+// 1.20.1	2025-07-13T16:48:12.264522	Tags for minecraft:item mod id cuboidmod
 e04b044dcd3d34a3e43faa01fa7c2985171b84f7 data/cuboidmod/tags/items/carbon_nanotube.json
 20aa845ad152b7fdd4fce9e77ef8ed30dc857717 data/cuboidmod/tags/items/cellulose.json
 6a85da5ddd96e2528b4380ef100eb09b114a0668 data/cuboidmod/tags/items/chests.json
@@ -32,12 +32,13 @@ f5895632709693e21ebe0dee4d2ecec077b187dc data/cuboidmod/tags/items/pieces/thatld
 1997f2f98c86b018ff8815433dbc9e1687ca242a data/cuboidmod/tags/items/pieces/wikidium.json
 4b3bd8e3f24c38e20a6ee54aca7d077f38f3f9d7 data/cuboidmod/tags/items/protein_fiber.json
 1a3624ec4235e882d5156126b94ab2349ce7c5ef data/cuboidmod/tags/items/protein_paste.json
-01736db47b1e96ec7b0c4fb5b54308807e959397 data/cuboidmod/tags/items/quantum_singularities.json
+683fcdeb4a9561e8cb0744f0a7921ae2076212cd data/cuboidmod/tags/items/quantum_singularities.json
 ac39a34a399a37c0cebcabc36a574b31648f9212 data/cuboidmod/tags/items/quantum_singularities/aluminium.json
 76e54c88477aaca2d4155d79dc5e46e253f1d3dc data/cuboidmod/tags/items/quantum_singularities/andesite.json
 8f2abdd54f20de04f29af919288e96f462a8db9f data/cuboidmod/tags/items/quantum_singularities/basalt.json
 5ae0394fbcd10db891869bbb08ab8adb2862fc82 data/cuboidmod/tags/items/quantum_singularities/blackstone.json
 0338be40ddfe140253ccf77edde2455b1792f58b data/cuboidmod/tags/items/quantum_singularities/bronze.json
+bed9bb9033e5276f97f638c1e17a4b6d3902ab29 data/cuboidmod/tags/items/quantum_singularities/calcite.json
 5bf7f6d67dbd5e21ecf6def209d843eea7d95ada data/cuboidmod/tags/items/quantum_singularities/carbon_nanotube.json
 5daff14b49882801e3b1a4808fb09d588b18591c data/cuboidmod/tags/items/quantum_singularities/cellulose.json
 a62e977ef33cea7293ea45666388871ca33cc836 data/cuboidmod/tags/items/quantum_singularities/clay.json
@@ -79,6 +80,7 @@ e0d2b38c4b053f25d57f6aa2565360c2389f3315 data/cuboidmod/tags/items/quantum_singu
 18d5a1f2760aeae72e3577d8d5aabdabf50000b0 data/cuboidmod/tags/items/quantum_singularities/steel.json
 628a36381d9f39ed670e29396a395bf0d4c4a705 data/cuboidmod/tags/items/quantum_singularities/thatldu.json
 c72aa10d87b8591b407225f220b5e8ca70faa4ed data/cuboidmod/tags/items/quantum_singularities/tin.json
+bf4363b06784f03ef92577c31509bff209577e65 data/cuboidmod/tags/items/quantum_singularities/tuff.json
 54d1ad406b0c0ab80bd8d3ed1c93f1d8bd3d0e9e data/cuboidmod/tags/items/quantum_singularities/uraninite.json
 87a4ed5ddddb102c2d9bfd183473c5447660b1f1 data/cuboidmod/tags/items/quantum_singularities/uranium.json
 27b0a0ef7935fcd22a3d7e9d110e5c82b66c5596 data/cuboidmod/tags/items/quantum_singularities/wikidium.json

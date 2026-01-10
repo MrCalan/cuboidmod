@@ -1,4 +1,4 @@
-// 1.20.1	2024-08-18T00:52:02.0610346	Item Models: cuboidmod
+// 1.20.1	2025-07-13T17:08:49.0071016	Item Models: cuboidmod
 ed2dd55ffbe83be2743f13966a37ee5ac70a2dac assets/cuboidmod/models/item/acacia_log_quantum_singularity.json
 7edc20fa0e9de9ac482329d87eb9dc039b821b42 assets/cuboidmod/models/item/aggregate.json
 ed2dd55ffbe83be2743f13966a37ee5ac70a2dac assets/cuboidmod/models/item/aluminium_quantum_singularity.json
@@ -12,6 +12,7 @@ ed2dd55ffbe83be2743f13966a37ee5ac70a2dac assets/cuboidmod/models/item/birch_log_
 ed2dd55ffbe83be2743f13966a37ee5ac70a2dac assets/cuboidmod/models/item/blackstone_quantum_singularity.json
 ed2dd55ffbe83be2743f13966a37ee5ac70a2dac assets/cuboidmod/models/item/bronze_quantum_singularity.json
 16f3ce8c54bbeddbed8b44bff7a12bc9907a5a25 assets/cuboidmod/models/item/broth.json
+ed2dd55ffbe83be2743f13966a37ee5ac70a2dac assets/cuboidmod/models/item/calcite_quantum_singularity.json
 5a35aa65b34cdcfdea97f9bc09f0fe2fdb76c365 assets/cuboidmod/models/item/carbon_deposit.json
 9f3f38f7f8440347238c4a9a43f2f937b4272eb0 assets/cuboidmod/models/item/carbon_nanotube.json
 2146c2b4a6111ad2d9f15a266d3f501bbf3cb91d assets/cuboidmod/models/item/carbon_nanotube_block.json
@@ -185,6 +186,7 @@ d6251ec731109ad0fadc1027ef25d3efe66cbc15 assets/cuboidmod/models/item/thatldu_si
 88637081f7814751ea68b51cda6c67df765c0a08 assets/cuboidmod/models/item/thatldu_sword.json
 5ddbb27c550858c81805fe3fced467c48229d702 assets/cuboidmod/models/item/thatldu_upgrade_smithing_template.json
 ed2dd55ffbe83be2743f13966a37ee5ac70a2dac assets/cuboidmod/models/item/tin_quantum_singularity.json
+ed2dd55ffbe83be2743f13966a37ee5ac70a2dac assets/cuboidmod/models/item/tuff_quantum_singularity.json
 ed2dd55ffbe83be2743f13966a37ee5ac70a2dac assets/cuboidmod/models/item/uraninite_quantum_singularity.json
 ed2dd55ffbe83be2743f13966a37ee5ac70a2dac assets/cuboidmod/models/item/uranium_quantum_singularity.json
 1c272867a689cc98275b2ab4592b598a78291347 assets/cuboidmod/models/item/wikidium_axe.json

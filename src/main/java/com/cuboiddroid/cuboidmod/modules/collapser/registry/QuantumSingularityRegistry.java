@@ -208,11 +208,11 @@ public final class QuantumSingularityRegistry {
                 .setRecipe("#forge:ingots/aluminum", INGOT_RECIPE_AMOUNT)
                 .setProduction("exnihilosequentia:raw_aluminum", ORE_WORK_TIME, ORE_POWER_OUTPUT),
 
-            defaultSingularity("andesite", new int[]{ 0x88888c, 0x4a4a4a })
+            defaultSingularity("andesite", new int[] { 0x88888c, 0x4a4a4a })
                 .setRecipe("minecraft:andesite", NATUAL_ITEM_RECIPE_AMOUNT)
                 .setProduction("minecraft:andesite", STONE_WORK_TIME, STONE_POWER_OUTPUT),
 
-            defaultSingularity("basalt", new int[]{ 0x737373, 0x333033 })
+            defaultSingularity("basalt", new int[] { 0x737373, 0x333033 })
                 .setRecipe("minecraft:basalt", NATUAL_ITEM_RECIPE_AMOUNT)
                 .setProduction("minecraft:basalt", STONE_WORK_TIME, STONE_POWER_OUTPUT),
 
@@ -220,7 +220,7 @@ public final class QuantumSingularityRegistry {
                 .setRecipe("minecraft:birch_log", LOG_RECIPE_AMOUNT).setPowerOutput(LOG_FUEL)
                 .setProduction("minecraft:birch_log", BASE_WORK_TIME, BASE_POWER_OUTPUT),
 
-            defaultSingularity("blackstone", new int[]{0x4d4a53, 0x3b3846})
+            defaultSingularity("blackstone", new int[] {0x4d4a53, 0x3b3846})
                 .setRecipe("minecraft:blackstone", NATUAL_ITEM_RECIPE_AMOUNT)
                 .setProduction("minecraft:blackstone", STONE_WORK_TIME, STONE_POWER_OUTPUT),
 
@@ -228,11 +228,15 @@ public final class QuantumSingularityRegistry {
                 .setRecipe("#forge:ingots/bronze", INGOT_RECIPE_AMOUNT)
                 .setProduction("mekanism:dust_bronze", ORE_WORK_TIME, ORE_POWER_OUTPUT),
 
-            defaultSingularity("carbon_nanotube", new int[]{0x877787, 0x554A55})
+            defaultSingularity("calcite", new int[] { 0xcbcbcd, 0x959596 })
+                    .setRecipe("minecraft:calcite", NATUAL_ITEM_RECIPE_AMOUNT)
+                    .setProduction("minecraft:calcite", STONE_WORK_TIME, STONE_POWER_OUTPUT),
+
+            defaultSingularity("carbon_nanotube", new int[]{ 0x877787, 0x554A55 })
                 .setRecipe("cuboidmod:carbon_nanotube", MANUFACTURED_MATERIAL_RECIPE_AMOUNT)
                 .setProduction("cuboidmod:carbon_nanotube", EARTH_WORK_TIME, STONE_POWER_OUTPUT),
 
-            defaultSingularity("cellulose", new int[]{0xC8C0A7, 0xF3E8C8})
+            defaultSingularity("cellulose", new int[] { 0xC8C0A7, 0xF3E8C8 })
                 .setRecipe("cuboidmod:cellulose", NATUAL_MATERIAL_RECIPE_AMOUNT)
                 .setProduction("cuboidmod:cellulose", BASE_WORK_TIME, BASE_POWER_OUTPUT),
 
@@ -260,7 +264,7 @@ public final class QuantumSingularityRegistry {
                 .setRecipe("minecraft:diamond", GEM_RECIPE_AMOUNT)
                 .setProduction("minecraft:diamond", GEM_WORK_TIME, ORE_POWER_OUTPUT),
 
-            defaultSingularity("diorite", new int[]{0xcbcbcc, 0x959595})
+            defaultSingularity("diorite", new int[] {0xcbcbcc, 0x959595})
                 .setRecipe("minecraft:diorite", NATUAL_ITEM_RECIPE_AMOUNT)
                 .setProduction("minecraft:diorite", STONE_WORK_TIME, STONE_POWER_OUTPUT),
 
@@ -360,7 +364,7 @@ public final class QuantumSingularityRegistry {
                 .setRecipe("minecraft:sand", NATUAL_ITEM_RECIPE_AMOUNT)
                 .setProduction("minecraft:sand", EARTH_WORK_TIME, STONE_POWER_OUTPUT),
 
-            defaultSingularity("silica_dust", new int[]{0xC8C0A7, 0xF3E8C8})
+            defaultSingularity("silica_dust", new int[] { 0xC8C0A7, 0xF3E8C8 })
                 .setRecipe("cuboidmod:silica_dust_block", MANUFACTURED_MATERIAL_RECIPE_AMOUNT)
                 .setProduction("cuboidmod:silica_dust", BASE_WORK_TIME, BASE_POWER_OUTPUT),
 
@@ -383,6 +387,10 @@ public final class QuantumSingularityRegistry {
             defaultSingularity("tin", new int[] { 0xA1C6C2, 0x517C88 })
                 .setRecipe("#forge:ingots/tin", INGOT_RECIPE_AMOUNT)
                 .setProduction("exnihilosequentia:raw_tin", ORE_WORK_TIME, ORE_POWER_OUTPUT),
+
+            defaultSingularity("tuff", new int[] { 0x999f9e, 0x4f4f4f })
+                    .setRecipe("minecraft:tuff", NATUAL_ITEM_RECIPE_AMOUNT)
+                    .setProduction("minecraft:tuff", STONE_WORK_TIME, STONE_POWER_OUTPUT),
 
             defaultSingularity("uraninite", new int[] { 0x4CD54C, 0x48A048 })
                 .setRecipe("powah:uraninite", GEM_RECIPE_AMOUNT)
